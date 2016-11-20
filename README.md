@@ -10,7 +10,7 @@ The neural network learns the RGB output of each pixel using only the (x, y) coo
 Example in action
 -----------------
 
-Here are two gifs that show what it is seen when you execute the `main.py` file.
+Here are two gifs that show what it is seen when you execute the `main.py` file with some of the sample input files (sample images are under the `input` directory).
 
 ![Rainbow painting](output/rainbow.gif)
 
